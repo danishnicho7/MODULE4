@@ -1,22 +1,22 @@
-Ex.No:2
-Ex.Name: Write A CPP program to Demonstrate on the object delegation (use integer data)
-Date:
-Aim:
+# Ex.No:2
+# Ex.Name: Write A CPP program to Demonstrate on the object delegation (use integer data)
+## Date:
+## Aim:
 
 
-Algorithm:
-
-
-
-
-
-Program:
+## Algorithm:
 
 
 
-Output:
+
+
+## Program:
 
 
 
-Result:
+## Output:
+
+
+
+## Result:
 
