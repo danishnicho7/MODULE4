@@ -1,22 +1,22 @@
-Ex.No:4
-Ex.Name: 
-Date:
-Aim:
+# Ex.No:4
+# Ex.Name: 
+## Date:
+## Aim:
 
 
-Algorithm:
-
-
-
-
-
-Program:
+## Algorithm:
 
 
 
-Output:
+
+
+## Program:
 
 
 
-Result:
+## Output:
+
+
+
+## Result:
 
