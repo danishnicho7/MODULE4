@@ -1,5 +1,7 @@
 # Ex.No:2
 # Ex.Name: Write A CPP Program to allocate memory dynamically for long integer array. (Note: p_array = new type [size]; )
+## Date:28/08/25
+
 ## Aim:
 To write a C++ program to allocate memory dynamically for a long integer array using the new operator.
 
